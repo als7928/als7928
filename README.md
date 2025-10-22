@@ -5,7 +5,7 @@
 
  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="25" height="25" />
 
-📚 Language / Library / Tools 📚
+📚 [Language / Library / Tools]
 
 <a href='https://pytorch.org/'>![PyTorch](https://img.shields.io/badge/PyTorch-3776AB?style=flat&logo=PyTorch&logoColor=white)</a>
 <a href='https://pyg.org/'>![PyG](https://img.shields.io/badge/PyG-3C2179?style=flat&logo=PyG&logoColor=white)</a>
@@ -14,7 +14,7 @@
 <a href='https://pandas.pydata.org/'>![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)</a>
 <a href='https://matplotlib.org/'>![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=als7928&langs_count=4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=als7928&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Minhyuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=als7928)](https://github.com/anuraghazra/github-readme-stats)
+[![Minhyuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=als7928&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>

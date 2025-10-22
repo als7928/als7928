@@ -15,7 +15,7 @@
 <a href='https://matplotlib.org/'>![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)</a>
 <a href='https://pyg.org/'>![PyG](https://img.shields.io/badge/PyG-3C2179?style=flat&logo=PyG&logoColor=white)</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redcontroller&langs_count=4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=als7928&langs_count=4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Minhyuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=als7928)](https://github.com/anuraghazra/github-readme-stats)
 </div>

@@ -7,10 +7,13 @@
 
 📚 [Language / Library / Tools]
 
-<a href='https://pytorch.org/'>![PyTorch](https://img.shields.io/badge/PyTorch-3776AB?style=flat&logo=PyTorch&logoColor=white)</a>
+<a href='https://pytorch.org/'>![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)</a>
+
+<a href='https://pytorch.org/'>![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)</a>
 <a href='https://pyg.org/'>![PyG](https://img.shields.io/badge/PyG-3C2179?style=flat&logo=PyG&logoColor=white)</a>
-<a href='https://numpy.org/'>![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=NumPy&logoColor=white)</a>
 <a href='https://scikit-learn.org/'>![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)</a>
+
+<a href='https://numpy.org/'>![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=NumPy&logoColor=white)</a>
 <a href='https://pandas.pydata.org/'>![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)</a>
 <a href='https://matplotlib.org/'>![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)</a>
 
